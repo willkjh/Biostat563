@@ -1,0 +1,89 @@
+Git/Github
+========================================================
+width: 1280
+height: 800
+transition: none
+font-family: 'Helvetica'
+author: William Koh
+date: July 17, 2014
+
+Git/Github (First thing that comes to mind for me)
+==========
+
+
+![2048](http://www.androidfree4u.com/images/download/1game/brain/2048-t/2048-t1.png)
+
+
+---------------------------------------------
+- [2048](http://gabrielecirulli.github.io/2048/)
+- [Doge2048](http://doge2048.com/)
+- [All other variants](http://allthe2048.com/)
+
+
+What is Git/Github
+==================
+Git
+---
+- It is a distributed revision control and source code management system. 
+- It is some form of version control for software development. 
+- Every working directory has complete history and full version tracking capability
+- Commandline tool
+
+GitHub
+------
+- is a Git repository web hosting service that offers the same functionality as Git + additional features
+- is a web-based graphical interface and desktop
+- Private (Paid) and Public repositories (FREEEEEEE)
+
+Competitors: svn or cvs, mercurial
+
+
+Why use Git/Github or other version control software?
+=====================================================
+- Open source
+- Central hub for users to work on collaborative projects
+- Support for non-linear development (thousand of parallel branches)
+- Fully distributed
+- Anyone can view your (public) work, comment, suggest changes etc
+
+Git/Github tips and tricks (Not an exhaustive list )
+==========================
+
+**Git** commands (local repositories)
+- **git init**: tells Git to start tracking a folder where you will want to dump all your project files
+- **git add**: tells Git the files that you want to track 
+- **commit**: tells Git to save and update a version of the file that you are currently tracking. Note that this is a *local* operation
+
+----------------------------------------------------------
+
+**Git** commands (remote repositories)
+- **remote**: 
+- **push**: After committing a version of a file suitable for sharing, push to the remote repository or server (GitHub)
+- **pull**: If you want to start working on a project from the server, pull the entire folder of files from the server (GitHub). By doing so, you will be tracking the files locally in your directory.
+- **merge**:
+
+Screenshot
+==========
+
+[Hardcore version: Git commandline](http://git-scm.com/)
+
+
+![Git]( http://upload.wikimedia.org/wikipedia/en/f/fc/Git_session.png)
+
+[Git Basics](http://git-scm.com/book/en/Git-Basics-Getting-a-Git-Repository)
+
+[Github cheatsheet from Martin Morgan](https://github.com/mtmorgan/githubCribsheet)
+
+----------------------------------------------------------
+![Lifecycle](http://git-scm.com/figures/18333fig0201-tn.png)
+
+
+Application tools/GUI
+============
+Apps tools to make Github ``easier''
+
+- https://mac.github.com/
+- Unfortunately, for mac users whose operating system is OLD (like me), github does not support them
+- Alternative is to use commandline version in Git
+
+- Sign up for a github account!
